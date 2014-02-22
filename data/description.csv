@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
 燃やせるごみ,,,img/moyasu02.svg,#ff6e59
-枝・葉・草,,,img/bin02.svg,#ff9f37
+枝・葉・草,,,img/branches02.svg,#ff9f37
 燃やせないごみ,,,img/moyasanai02.svg,#9263d3
 容器プラ,,,img/shigen02.svg,#27a047
-雑がみ,,,img/shigen02.svg,#bbe400
+雑がみ,,,img/papers02.svg,#bbe400
 びん・缶・ペット,,,img/bin02.svg,#13c4e1
